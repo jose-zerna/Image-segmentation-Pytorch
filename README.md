@@ -1,5 +1,5 @@
 # Image-segmentation-Pytorch
-This project involves Image Segmentation on a dataset consisting of 300 images of humans with corresponding binary masks for each image. This project aimed to perform segmentation tasks using deep learning techniques.
+Project involving Image Segmentation on a dataset consisting of 300 images of humans with corresponding binary masks for each image. This project aimed to perform segmentation tasks using deep learning techniques.
 
 To access the original dataset, please visit the GitHub repository of the dataset's original author: https://github.com/VikramShenoy97/Human-Segmentation-Dataset
 
