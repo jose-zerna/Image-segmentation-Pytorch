@@ -3,7 +3,7 @@ Project involving Image Segmentation on a dataset consisting of 300 images of hu
 
 To access the original dataset, please visit the GitHub repository of the dataset's original author: https://github.com/VikramShenoy97/Human-Segmentation-Dataset
 
-This project is a guided project offered on Coursera titled "Deep Learning with PyTorch: Image Segmentation." You can find the project here: https://www.coursera.org/projects/deep-learning-with-pytorch-image-segmentation.
+This project is available on Coursera as "Deep Learning with PyTorch: Image Segmentation" and can be accessed directly by visiting the following URL: https://www.coursera.org/projects/deep-learning-with-pytorch-image-segmentation.
 
 The main tasks involved in this project were as follows:
 - Understanding the Segmentation Dataset and creating a custom dataset class specifically designed for handling image-mask datasets.
